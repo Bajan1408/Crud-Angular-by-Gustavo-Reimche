@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Sony Vaio",
+      "price": "2789.99"
+    },
+    {
+      "id": 4,
+      "name": "Pc desktop",
+      "price": 3789
+    },
+    {
+      "name": "Celular Nokia",
+      "price": "897.90",
+      "id": 9
+    },
+    {
+      "name": "Notebook  Positivo s7200",
+      "price": "700.00",
+      "id": 12
+    }
+  ]
+}
